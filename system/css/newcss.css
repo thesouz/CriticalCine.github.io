@@ -1,0 +1,13 @@
+body{
+    background-color:#6c757d 
+}
+div#interface{
+    margin-left: 250px;
+}
+div#interface-hosp{
+    margin-left: 170px;
+}
+
+.largura{
+    width: auto;
+}
